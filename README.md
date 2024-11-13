@@ -64,7 +64,7 @@ I've used almost all file extensions for the Dataset analysis.
 
 | Sl. No. | Dataset Title & Description | Dataset Type | Dataset Domain | The Dataset |
 |---------|-----------------------------|--------------|----------------|-------------|
-| 1 | Airbnb Tutorial Data | Tabular | Real Estate | [Dataset 1](#dataset-1) |
+| 1 | Airbnb Open Data | Tabular | Real Estate | [Dataset 1](#dataset-1) |
 
 
 ## Dataset 1
