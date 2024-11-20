@@ -69,7 +69,7 @@ I've used almost all file extensions for the Dataset analysis.
 
 ## Dataset 1
 
-**A Price Prediction through Detailing Airbnb Tutorial Data containing Real Estate Property & Rental Accommodation Reviews and Ratings**
+**An Exploratory Data Analysis through Detailing Airbnb Open Data containing Real Estate Property & Rental Accommodation Reviews and Ratings**
 
 - Github Link: [Practical-Project-for-Airbnb-Open-Data.pdf]()
 - Colab Link: [Practical-Project-for-Airbnb-Open-Data.ipynb](https://colab.research.google.com/drive/1xUeS_hPeF2Zrs31_Q_AKBoRKP0sOk8kd?usp=sharing)
