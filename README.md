@@ -30,7 +30,7 @@ I've exported the domains from Contract Procurement Vocabulary (CPV) codes avail
 17. Postal & Telecommunications
 18. Public Utilities
 19. Finance & Insurance
-20. Real Estate
+20. [Real Estate](./datasets/real_estate/)
 21. Architectural & Construction
 22. Development
 23. Administration
@@ -64,7 +64,7 @@ I've used almost all file extensions for the Dataset analysis.
 
 | Sl. No. | Dataset Title & Description | Dataset Type | Dataset Domain | The Dataset |
 |---------|-----------------------------|--------------|----------------|-------------|
-| 1 | Airbnb Open Data | Tabular | Real Estate | [Dataset 1](#dataset-1) |
+| 1 | Airbnb Open Data | Tabular | [Real Estate](./datasets/real_estate/) | [Dataset 1](#dataset-1) |
 
 
 ## Dataset 1
