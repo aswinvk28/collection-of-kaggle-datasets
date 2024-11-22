@@ -71,7 +71,7 @@ I've used almost all file extensions for the Dataset analysis.
 
 **An Exploratory Data Analysis through Detailing Airbnb Open Data containing Real Estate Property & Rental Accommodation Reviews and Ratings**
 
-- Github Link: [Practical-Project-for-Airbnb-Open-Data.pdf]()
+- Github Link: [Practical-Project-for-Airbnb-Open-Data.pdf](https://github.com/aswinvk28/collection-of-kaggle-datasets/blob/main/datasets/real_estate/airbnb_open_data/Practical_Project_for_Airbnb_Open_Data.pdf)
 - Colab Link: [Practical-Project-for-Airbnb-Open-Data.ipynb](https://colab.research.google.com/drive/1xUeS_hPeF2Zrs31_Q_AKBoRKP0sOk8kd?usp=sharing)
 - Kaggle Link: [Airbnb Open Data](https://www.kaggle.com/datasets/arianazmoudeh/airbnbopendata/data)
 
