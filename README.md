@@ -65,6 +65,7 @@ I've used almost all file extensions for the Dataset analysis.
 | Sl. No. | Dataset Title & Description | Dataset Type | Dataset Domain | The Dataset |
 |---------|-----------------------------|--------------|----------------|-------------|
 | 1 | Airbnb Open Data | Tabular | [Real Estate](./datasets/real_estate/) | [Dataset 1](#dataset-1) |
+| 2 | U.S. Gasoline and Diesel Retail Prices 1995-2021 | Tabular | [Oil](./datasets/oil/) | [Dataset 2](#dataset-2) |
 
 
 ## Dataset 1
@@ -77,9 +78,11 @@ I've used almost all file extensions for the Dataset analysis.
 
 ## Dataset 2
 
-- Github Link: 
-- Colab Link: 
-- Kaggle Link: 
+**Pricing Forecast of U.S. Gasoline and Diesel from 1995 to 2021 containing the Grades and Formulations of Oil**
+
+- Github Link: [Practical-Project-for-US-Gasoline-Diesel-1995-2021.pdf]()
+- Colab Link: [Practical-Project-for-US-Gasoline-Diesel-1995-2021](https://colab.research.google.com/drive/1wfBfh4LerkJzt4bc-aKEzbHnv5xAUSnk)
+- Kaggle Link: [U.S. Gasoline and Diesel Retail Prices 1995-2021](https://www.kaggle.com/datasets/mruanova/us-gasoline-and-diesel-retail-prices-19952021/)
 
 ## Dataset 3
 
